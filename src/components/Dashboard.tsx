@@ -53,7 +53,7 @@ const Dashboard: React.FC = () => {
             <div className="flex items-center space-x-3">
               <Activity className="h-8 w-8 text-blue-600" />
               <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-teal-600 bg-clip-text text-transparent">
-                WaterWatch Pro
+                Aqua Detectives Proto
               </h1>
             </div>
             <div className="flex items-center space-x-4">
